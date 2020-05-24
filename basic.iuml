@@ -6,9 +6,9 @@
 'General
 skinparam shadowing false
 skinparam handwritten false
-skinparam backgroundColor transparent
+'skinparam backgroundColor transparent
 skinparam componentStyle uml2
-skinparam dpi 300
+skinparam dpi 150
 
 'Default'
 skinparam default{
