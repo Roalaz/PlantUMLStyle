@@ -1,7 +1,3 @@
-/'
- ' Style for PlantUML'
- '/
-
 'Constant Definition
 !define FONTSERIF Constantia
 !define FONTSANS Calibri
